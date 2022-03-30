@@ -118,7 +118,14 @@ body {
     -ms-transform: scale(0.95);
     -o-transform: scale(0.95);
     transform: scale(0.95);
+    background-color: orange;
+    color: white;
 }
+
+.circle:focus {
+    background-color: orange;
+}
+
 
 .star {
     width: 35px;
