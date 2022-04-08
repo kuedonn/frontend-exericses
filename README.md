@@ -1,3 +1,3 @@
 # frontend-exericses
 
-Practising CSS, HTML, Javascript and learning new skills with frontend mentor challenges.
+Practising CSS, HTML, Javascript and learning new skills personal wannabe challenges and more.
